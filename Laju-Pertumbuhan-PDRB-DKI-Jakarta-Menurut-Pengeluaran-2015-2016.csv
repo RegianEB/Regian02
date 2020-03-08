@@ -1,0 +1,49 @@
+tahun,jenis_perbandingan,periode,komponen,persentase
+2015,q to q,Triwulan III,Pengeluaran Konsumsi Rumah Tangga,2.87
+2016,q to q,Triwulan III,Pengeluaran Konsumsi Rumah Tangga,2.35
+2015,y on y,Triwulan III,Pengeluaran Konsumsi Rumah Tangga,5.03
+2016,y on y,Triwulan III,Pengeluaran Konsumsi Rumah Tangga,5.02
+2015,c to c,Triwulan I-III,Pengeluaran Konsumsi Rumah Tangga,5.05
+2016,c to c,Triwulan I-III,Pengeluaran Konsumsi Rumah Tangga,5.21
+2015,q to q,Triwulan III,Pengeluaran Konsumsi LNPRT,0.81
+2016,q to q,Triwulan III,Pengeluaran Konsumsi LNPRT,9.57
+2015,y on y,Triwulan III,Pengeluaran Konsumsi LNPRT,3.73
+2016,y on y,Triwulan III,Pengeluaran Konsumsi LNPRT,15.26
+2015,c to c,Triwulan I-III,Pengeluaran Konsumsi LNPRT,-7.8
+2016,c to c,Triwulan I-III,Pengeluaran Konsumsi LNPRT,8.89
+2015,q to q,Triwulan III,Pengeluaran Konsumsi Pemerintah ,11.56
+2016,q to q,Triwulan III,Pengeluaran Konsumsi Pemerintah ,-2.99
+2015,y on y,Triwulan III,Pengeluaran Konsumsi Pemerintah ,7.2
+2016,y on y,Triwulan III,Pengeluaran Konsumsi Pemerintah ,1.9
+2015,c to c,Triwulan I-III,Pengeluaran Konsumsi Pemerintah ,3.54
+2016,c to c,Triwulan I-III,Pengeluaran Konsumsi Pemerintah ,11.02
+2015,q to q,Triwulan III,Pembentukan Modal Tetap Bruto ,-0.09
+2016,q to q,Triwulan III,Pembentukan Modal Tetap Bruto ,0.74
+2015,y on y,Triwulan III,Pembentukan Modal Tetap Bruto ,2.81
+2016,y on y,Triwulan III,Pembentukan Modal Tetap Bruto ,4.04
+2015,c to c,Triwulan I-III,Pembentukan Modal Tetap Bruto ,2.97
+2016,c to c,Triwulan I-III,Pembentukan Modal Tetap Bruto ,3.36
+2015,q to q,Triwulan III,Perubahan Inventori ,-5.68
+2016,q to q,Triwulan III,Perubahan Inventori ,2.36
+2015,y on y,Triwulan III,Perubahan Inventori ,-12.02
+2016,y on y,Triwulan III,Perubahan Inventori ,516.72
+2015,c to c,Triwulan I-III,Perubahan Inventori ,-13.96
+2016,c to c,Triwulan I-III,Perubahan Inventori ,307.09
+2015,q to q,Triwulan III,Ekspor Barang dan Jasa Luar Negeri ,2.95
+2016,q to q,Triwulan III,Ekspor Barang dan Jasa Luar Negeri ,3.33
+2015,y on y,Triwulan III,Ekspor Barang dan Jasa Luar Negeri ,3.46
+2016,y on y,Triwulan III,Ekspor Barang dan Jasa Luar Negeri ,-0.08
+2015,c to c,Triwulan I-III,Ekspor Barang dan Jasa Luar Negeri ,1.46
+2016,c to c,Triwulan I-III,Ekspor Barang dan Jasa Luar Negeri ,-1.45
+2015,q to q,Triwulan III,Dikurangi Impor Barang dan Jasa Luar Negeri ,-8.09
+2016,q to q,Triwulan III,Dikurangi Impor Barang dan Jasa Luar Negeri ,-6.24
+2015,y on y,Triwulan III,Dikurangi Impor Barang dan Jasa Luar Negeri ,-11.27
+2016,y on y,Triwulan III,Dikurangi Impor Barang dan Jasa Luar Negeri ,-0.99
+2015,c to c,Triwulan I-III,Dikurangi Impor Barang dan Jasa Luar Negeri ,-9.56
+2016,c to c,Triwulan I-III,Dikurangi Impor Barang dan Jasa Luar Negeri ,-3.58
+2015,q to q,Triwulan III,Net Ekspor Antar Daerah ,-31.57
+2016,q to q,Triwulan III,Net Ekspor Antar Daerah ,-21.12
+2015,y on y,Triwulan III,Net Ekspor Antar Daerah ,-32.6
+2016,y on y,Triwulan III,Net Ekspor Antar Daerah ,-4.45
+2015,c to c,Triwulan I-III,Net Ekspor Antar Daerah ,-20.81
+2016,c to c,Triwulan I-III,Net Ekspor Antar Daerah ,-12.93
